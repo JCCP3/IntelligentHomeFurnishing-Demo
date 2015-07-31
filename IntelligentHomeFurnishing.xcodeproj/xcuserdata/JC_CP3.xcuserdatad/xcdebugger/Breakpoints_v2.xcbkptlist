@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IntelligentHomeFurnishing/TaskViewControllers/IntelligentContextualAddTaskViewController.m"
+            timestampString = "458618668.321701"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "639"
+            endingLineNumber = "639"
+            landmarkName = "-onClickAdd:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IntelligentContextualAddTaskViewController onClickAdd:]"
+                  moduleName = "IntelligentHomeFurnishing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jc_cp3/Downloads/IntelligentHomeFurnishing(1)(1)/IntelligentHomeFurnishing/TaskViewControllers/IntelligentContextualAddTaskViewController.m"
+                  timestampString = "459934166.893685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "639"
+                  endingLineNumber = "639"
+                  offsetFromSymbolStart = "2972">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__57-[IntelligentContextualAddTaskViewController onClickAdd:]_block_invoke"
+                  moduleName = "IntelligentHomeFurnishing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jc_cp3/Downloads/IntelligentHomeFurnishing(1)(1)/IntelligentHomeFurnishing/TaskViewControllers/IntelligentContextualAddTaskViewController.m"
+                  timestampString = "459934166.893844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "639"
+                  endingLineNumber = "639"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IntelligentHomeFurnishing/TaskViewControllers/IntelligentContextualAddTaskViewController.m"
+            timestampString = "458618896.983414"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "-loadTaskInfoData"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
